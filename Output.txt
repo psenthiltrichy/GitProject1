@@ -1,0 +1,3 @@
+Hi,
+
+This is Output file for Git Project1.
